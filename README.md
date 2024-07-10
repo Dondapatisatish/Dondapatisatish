@@ -18,7 +18,7 @@
 <br>
 
 - # Welcome to My Cybersecurity Profile! 🛡️
-- Hey there! I'm [Your Name], a passionate cybersecurity professional dedicated to securing digital assets and enhancing online safety. This repository serves as a glimpse into my skills, projects, and contributions in the field of cybersecurity.
+- Hey there! I'm Satish Dondapati, a passionate cybersecurity professional dedicated to securing digital assets and enhancing online safety. This repository serves as a glimpse into my skills, projects, and contributions in the field of cybersecurity.
 ## About Me
 - 💼 Currently working as a Security Analyst at HCL Technologies.
 - 🎓 Graduated with a degree in University of East London.
